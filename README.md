@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+GITHUB_ID = "Ov23li3HOfcfEu4cIAuG" 
+GITHUB_SECRET = "f9377f8efdf71ea8a04affbfcb29755982b2b90e"
+NEXT_PUBLIC_BASE_URL= "http://localhost:3000/"
+NEXTAUTH_SECRET = "V2S27mvQSGoA6Ye/FxfXUTCCgdwOCyJC90jX6rDbU80="
+NEXT_PUBLIC_RAZORPAY_KEY_ID = "rzp_test_ssdxuDjgWtdQI6"
+KEY_SECRET = "jZSmbiq4vEVRaO9L1jZWXUBj"
+MONGODB_URI=mongodb://localhost:27017/getmechai
